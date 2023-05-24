@@ -12,8 +12,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please open an issue on GitHub and use the
-`vulnerability` label or vulnerability template.
-
-Or email [security@kuiper.enimaloc.fr](mailto:security@kuiper.enimaloc.fr), 
-if you want to report the vulnerability privately or this is a security emergency.
+Email [security@kuiper.enimaloc.fr](mailto:security@kuiper.enimaloc.fr) to report any security vulnerability.
